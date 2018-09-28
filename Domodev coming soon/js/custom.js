@@ -98,7 +98,7 @@ var countdownOnOff = 'on';
 
 // Set up the date and time that will be counted down to
 // Enter date in the format (24 hr clock): DD Month YYYY HH:MM:SS for example: 01 January 2015 23:04:00
-var countdownDate = '27 December 2018 00:00:00';
+var countdownDate = '28 December 2018 00:00:00';
 
 // If neccessary (to change language of countdown), words used in countdown are found here
 // Make sure you change the plural and singular forms (e.g. days and day)
